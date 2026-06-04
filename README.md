@@ -207,6 +207,17 @@ Backend / Server Developer
 
 ---
 
+## 룸메이트 매칭 시스템 정보시스템 분석 보고서
+
+* 요구사항 분석
+* 일정 계획
+* Context Diagram 작성
+* ERD 및 데이터베이스 설계
+* 화면 설계
+* 시스템 구조 분석
+
+---
+
 ## 국민청원 데이터 텍스트마이닝 프로젝트
 
 * Python 기반 데이터 수집 및 전처리
@@ -219,17 +230,6 @@ Backend / Server Developer
 
 ---
 
-## 룸메이트 매칭 시스템 정보시스템 분석 보고서
-
-* 요구사항 분석
-* 일정 계획
-* Context Diagram 작성
-* ERD 및 데이터베이스 설계
-* 화면 설계
-* 시스템 구조 분석
-
----
-
 # Tech Stack
 
 | Area                   | Stack                                                    |
@@ -237,7 +237,7 @@ Backend / Server Developer
 | Backend                | PHP · Python · FastAPI · REST API                        |
 | Database               | MySQL · MariaDB · SQL · MongoDB                          |
 | Server / Infra         | Linux · Docker · NGINX · HTTPS/SSL · Git                 |
-| Frontend / Maintenance | JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap      |
+| Web Maintenance        | JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap      |
 | Monitoring             | Web/API Health Check · Service Status Check · Alert Flow |
 | Data / Messaging       | MQTT · Data Processing · API Response Data Handling      |
 
