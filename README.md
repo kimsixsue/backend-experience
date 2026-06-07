@@ -248,3 +248,15 @@ Backend / Server Developer
 이 저장소에는 회사 내부 소스코드, 실제 API 명세, DB 구조 원문, 서버 정보, 계정 정보, 고객 정보, 운영 문서 원문을 포함하지 않습니다.
 
 모든 내용은 실제 업무 경험을 기반으로 하되, 외부 공개 가능한 범위로 추상화하여 작성했습니다.
+
+---
+
+## Related Project
+
+### university-cms-php
+
+PHP·MySQL 기반 CMS 구조를 직접 설계하고 구현하기 위한 개인 프로젝트입니다.
+
+실무에서 경험한 PHP 웹서비스 운영·유지보수 흐름을 바탕으로, 대학교·공공기관 부속 홈페이지 관리 시스템을 가정해 요구사항정의서와 DB 설계 초안을 작성했습니다.
+
+Repository: https://github.com/kimsixsue/university-cms-php
